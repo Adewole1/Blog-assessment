@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+.vscode/
+migrations/
+blog_env/
+*.log
+*.env
+*.rdb
+*.bak
+*.dir
+*.dat
